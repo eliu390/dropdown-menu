@@ -1,4 +1,4 @@
-# Hive - Frontend Engineer Challenge
+# Dropdown menu component
 
 To run this app:
 - Clone this repository
